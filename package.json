@@ -1,0 +1,21 @@
+{
+  "name": "playwrightframework",
+  "version": "1.0.0",
+  "description": "Web automation tool",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunrajput1987/PlaywrightFramework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunrajput1987/PlaywrightFramework/issues"
+  },
+  "homepage": "https://github.com/arunrajput1987/PlaywrightFramework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}
